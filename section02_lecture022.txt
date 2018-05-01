@@ -1,0 +1,6 @@
+utilizing getline() can eliminate cin problems
+
+syntax is std::getline(cin, var)
+
+this can bypass the whitespace stopping of cin
+

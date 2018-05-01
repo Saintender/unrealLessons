@@ -1,0 +1,5 @@
+general boolean operations
+string indexing
+char comparisons
+
+good info about common bool troubles

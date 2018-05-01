@@ -1,0 +1,12 @@
+Magic Numbers and Constants
+
+constexpr (Constant expression) is compiled at compile time
+also not a variable type
+this is a variable modifier
+
+sets the value for a variable in the compiler and will not change during runtime
+
+I wonder what the argument for the difference between constexpr vs const would be
+
+strongest form of constant in cpp
+

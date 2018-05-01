@@ -1,0 +1,15 @@
+header files and contracts
+
+as before the header files are essentially the prototypes stored elsewhere
+
+look into the naming conventions in order to settle on my own naming conventions
+
+why do we include #pragma once
+-ahh, only allows the header to be imported once
+
+syntax: class FN{}
+
+allowed a cpp/h pair
+
+never use using namespace in headers
+

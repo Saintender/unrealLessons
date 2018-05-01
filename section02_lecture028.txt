@@ -1,0 +1,4 @@
+introduction to class files
+
+purpose of abstraction held within separate files in order to assist clarity and use
+

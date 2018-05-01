@@ -1,0 +1,8 @@
+loops discussion
+
+notes will include any special syntax that c++ adds to the loops
+
+I think its none
+
+it looks to be none
+

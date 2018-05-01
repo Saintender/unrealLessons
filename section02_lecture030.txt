@@ -1,0 +1,10 @@
+including header files and header clarification
+
+never use using namespace
+
+why can the header file instantiate a method without the name of a variable | bool checkValidGuess(std::string)
+
+instead of using the namespace get used to std:: notation
+
+the header creates prototypes for the cpp file
+

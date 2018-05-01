@@ -1,0 +1,16 @@
+#pragma once
+#include <string>
+
+class bullCowGame{
+public:
+	bullCowGame();
+	void reset();
+	int getMaxTries() const;
+	int getCurrentTry() const;
+	bool isGameWon();
+	bool checkValidGuess(std::string);
+
+private:
+	int myCurrentTry;
+	int myMaxTries;
+};

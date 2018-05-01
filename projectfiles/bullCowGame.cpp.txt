@@ -1,0 +1,26 @@
+#include "bullCowGame.h"
+
+bullCowGame::bullCowGame() { reset(); }
+
+void bullCowGame::reset()
+{
+	constexpr maxTries = 8;
+
+	myCurrentTry = 1;
+	myMaxTries = maxTries;
+	return;
+}
+
+int bullCowGame::getMaxTries() const { return myMaxTries; }
+
+int bullCowGame::getCurrentTry() const { return myCurrentTry; }
+
+bool bullCowGame::isGameWon()
+{
+	return false;
+}
+
+bool bullCowGame::checkValidGuess(std::string)
+{
+	return false;
+}

@@ -1,0 +1,4 @@
+getters
+
+purpose is to access and modify private variables
+

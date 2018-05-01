@@ -1,0 +1,9 @@
+functioning out code
+
+abstraction can simpify code
+
+encapsulation mandate abstractions are adhered to
+
+functions (methods) most be instantiated above the main but they can be implemented later
+
+be mindful that functions try to accomplish as few goals as possible

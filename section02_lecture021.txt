@@ -1,0 +1,11 @@
+commenting your planning is referred to as pseudocode
+
+writing out the steps necessary to code for your game can improve the thinking organization
+
+cin uses >> to read from the stream
+need to add the string library
+
+cin collects an entire input string
+another instance of cin will continue reading from that stream until the stream is empty
+
+cin also includes an endl as input is entered

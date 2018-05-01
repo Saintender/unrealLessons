@@ -1,0 +1,10 @@
+#include <> imports librarys
+#include "" imports our classes/headers
+
+using a namespace in a single instance requires //std::cout for example
+the keyword using can be used outside methods to load a namespace for the entire class //using namespace std;
+
+for new lines, you can use the escape character or std::endl
+
+concatenation in cout is through the <<
+

@@ -1,0 +1,7 @@
+clarity is worth fighting for
+
+focus on keeping things compartmentalized
+this way the main can be a road map of the way the program runs
+
+header files include the prototypes of all the functions in order to keep the header of your cpp clean
+

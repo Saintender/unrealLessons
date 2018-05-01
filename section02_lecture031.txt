@@ -1,0 +1,7 @@
+how to instantiate the class
+
+to call from a class, you use a constructor
+
+Instantiation Notation: bullCowGame bCGame;
+
+must include the header
